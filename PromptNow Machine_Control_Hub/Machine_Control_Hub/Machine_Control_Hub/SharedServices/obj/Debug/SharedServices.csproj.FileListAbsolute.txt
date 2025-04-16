@@ -1,0 +1,6 @@
+C:\Users\bawkt\OneDrive\Desktop\Test2\Machine_Control_Hub\SharedServices\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test2\Machine_Control_Hub\SharedServices\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test2\Machine_Control_Hub\SharedServices\obj\Debug\SharedServices.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test2\Machine_Control_Hub\SharedServices\obj\Debug\SharedServices.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test2\Machine_Control_Hub\SharedServices\obj\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test2\Machine_Control_Hub\SharedServices\obj\Debug\SharedServices.pdb

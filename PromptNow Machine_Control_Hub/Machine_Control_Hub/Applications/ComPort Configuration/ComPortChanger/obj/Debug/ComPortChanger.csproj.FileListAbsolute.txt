@@ -1,0 +1,100 @@
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.exe.config
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.exe.config
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.exe
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.g.resources
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowComPort Configuration\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.exe
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChangerControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChangerControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test2\ComPortChanger\ComPortChanger\obj\Debug\ComPortC.15108BA1.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChangerControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChangerControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortC.15108BA1.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\bin\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChangerControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChangerControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\StatusWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortC.15108BA1.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\ComPortChanger\ComPortChanger\obj\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\bin\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\bin\Debug\ComPortChanger.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChangerControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\StatusWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChangerControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\StatusWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortC.15108BA1.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowComPort Configuration\ComPortChanger\obj\Debug\ComPortChanger.pdb

@@ -1,0 +1,23 @@
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\bin\Debug\Static IP Application.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\bin\Debug\Static IP Application.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\bin\Debug\System.CodeDom.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\bin\Debug\System.CodeDom.xml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\NetworkAdapter.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\AdapterDetailControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Dialogs\DHCPConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Dialogs\SaveConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\NetworkAdapterControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\AdapterDetailControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Dialogs\DHCPConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Dialogs\SaveConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\NetworkAdapterControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Static IP Application_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Static IP Application.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Static_IP_Application.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\NetworkAdapter.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\NetworkAdapter.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\NetworkA.1B40AF41.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Static IP Application.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PromptNowNetwork Configuration\Static IP Application\obj\Debug\Static IP Application.pdb

@@ -1,0 +1,69 @@
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\bin\Release\Static IP Application.exe.config
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\bin\Release\Static IP Application.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\bin\Release\Static IP Application.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\bin\Release\System.CodeDom.dll
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\bin\Release\System.CodeDom.xml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\AdapterDetailWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Dialogs\DHCPConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Dialogs\SaveConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\AdapterDetailWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Dialogs\DHCPConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Dialogs\SaveConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static_IP_Application.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static I.3106DDDD.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Network Adapter Configuration\PromptNow Set Static+Status\Static IP Application\obj\Release\Static IP Application.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\AdapterDetailWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\DHCPConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\SaveConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\AdapterDetailWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\DHCPConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\SaveConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static_IP_Application.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\Static IP Application.exe.config
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\Static IP Application.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\Static IP Application.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\System.CodeDom.dll
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\System.CodeDom.xml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static I.3106DDDD.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.pdb
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\Static IP Application.exe.config
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\Static IP Application.exe
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\Static IP Application.pdb
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\System.CodeDom.dll
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\bin\Release\System.CodeDom.xml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\AdapterDetailWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\DHCPConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\SaveConfirmation.baml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\AdapterDetailWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\DHCPConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Dialogs\SaveConfirmation.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.g.resources
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static_IP_Application.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static I.3106DDDD.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.exe
+C:\Users\bawkt\OneDrive\Desktop\ไฟล์สำรอง\PromptNowNetwork Configuration\PromptNow Set Static\Static IP Application\obj\Release\Static IP Application.pdb

@@ -1,0 +1,58 @@
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\bin\Debug\Window_Event_Log.exe.config
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\bin\Debug\Window_Event_Log.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\bin\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\App.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\bin\Debug\Window_Event_Log.exe.config
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\bin\Debug\Window_Event_Log.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\bin\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.exe
+C:\Users\bawkt\OneDrive\Desktop\Promptnow\PronptNowWindow Export Log\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\MainWindow.baml
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\LogLevelWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\MainWindow.g.cs
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\PronptNowWindowExport LogExporter\Window_Event_Log\Window_Event_Log\obj\Debug\Window_Event_Log_MarkupCompile.lref
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.AssemblyReference.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log_MarkupCompile.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\bin\Debug\Window_Event_Log.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\bin\Debug\Window_Event_Log.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\bin\Debug\SharedServices.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\bin\Debug\SharedServices.pdb
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.g.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.Properties.Resources.resources
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.GenerateResource.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.csproj.CoreCompileInputs.cache
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_E.1D88302B.Up2Date
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\Window_Event_Log.dll
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\LogEventControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\LogLevelSelectionControl.baml
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\LogEventControl.g.cs
+C:\Users\bawkt\OneDrive\Desktop\Test3\Applications\PronptNowWindowExport LogExporter\Window_Event_Log\obj\Debug\LogLevelSelectionControl.g.cs

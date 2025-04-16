@@ -1,0 +1,390 @@
+﻿<UserControl x:Class="NetworkAdapter.AdapterDetailControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Background="#FFFFFFFF">
+    <Viewbox>
+        <Grid Height="1440" Width="1080">
+            <!-- Background -->
+            <Grid.Background>
+                <ImageBrush ImageSource="pack://application:,,,/Assets/Wallpaper.png" Stretch="UniformToFill" />
+            </Grid.Background>
+
+            <!-- Date and Time -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="40,75,0,0">
+                <TextBlock x:Name="DateText" FontSize="20" FontWeight="Bold" Foreground="#CACACA" FontFamily="Roboto" />
+                <TextBlock FontSize="20" Width="45" />
+                <TextBlock x:Name="TimeText" FontSize="20" FontWeight="Medium" Foreground="#CACACA" FontFamily="Noto Sans" Margin="0,-5,0,0" />
+            </StackPanel>
+        
+
+            <!-- Version Information -->
+            <StackPanel HorizontalAlignment="Right" >
+                <TextBlock Text="Launcher Version : 1.2.26.1333" 
+                        FontSize="20" 
+                        FontWeight="Medium" 
+                        Foreground="#CACACA" 
+                        FontFamily="Noto Sans" 
+                        HorizontalAlignment="Right"
+                        Margin="0,40,30,0"/>
+                <TextBlock Text="PromptConnect : 1.2.10.240" 
+                        FontSize="20" 
+                        FontWeight="Medium" 
+                        Foreground="#CACACA" 
+                        FontFamily="Noto Sans" 
+                        HorizontalAlignment="Right"
+                        Margin="0,0,30,0"/>
+                <TextBlock Text="MAC Address : 12as1234dfg1" 
+                         FontSize="20" 
+                         FontWeight="Medium" 
+                         Foreground="#CACACA" 
+                         FontFamily="Noto Sans" 
+                         HorizontalAlignment="Right"
+                         Margin="0,0,30,0"/>
+            </StackPanel>
+
+            <!-- Title -->
+            <TextBlock Text="Network Adapter Configuration"
+                        FontSize="36"
+                        FontFamily="Noto Sans"
+                        Foreground="#CACACA"
+                        HorizontalAlignment="Center"
+                        Margin="0,200,0,0"/>
+
+            <!-- Adapter Name Display -->
+            <TextBlock x:Name="AdapterNameText" Text="Adapter Name" HorizontalAlignment="Center"
+                       VerticalAlignment="Top" Margin="0,275,0,0" FontSize="35" FontWeight="Bold"
+                       Foreground="White" FontFamily="Noto Sans" />
+
+            <!-- Static Background -->
+            <Image Source="pack://application:,,,/Static IP Application;component/Assets/Background_static.png" Width="960" Height="470"
+                   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,350,0,0" />
+
+            <!-- Scrollable Content -->
+            <ScrollViewer VerticalScrollBarVisibility="Hidden"
+                          HorizontalScrollBarVisibility="Disabled"
+                          PanningMode="VerticalOnly"
+                          Width="960" Height="460"
+                          HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,350,0,0">
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                    <!-- IPAddress Section -->
+                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/IPAddress.png" Width="900" Height="180"
+                           HorizontalAlignment="Center" Stretch="Uniform" Margin="0,40,0,0" />
+                    <TextBox x:Name="IPAddressTextBox" GotFocus="TextBox_GotFocus"
+                             FontFamily="Noto Sans" FontSize="36" FontWeight="Bold" Foreground="#00654E"
+                             TextAlignment="Center" Width="900" Margin="0,-110,0,0">
+                        <TextBox.Template>
+                            <ControlTemplate TargetType="TextBox">
+                                <Border Background="Transparent">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </TextBox.Template>
+                    </TextBox>
+
+                    <!-- SubnetMask Section -->
+                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/SubnetMask.png" Width="900" Height="180"
+                           HorizontalAlignment="Center" Stretch="Uniform" Margin="0,0,0,0" />
+                    <TextBox x:Name="SubnetMaskTextBox" GotFocus="TextBox_GotFocus"
+                             FontFamily="Noto Sans" FontSize="36" FontWeight="Bold" Foreground="#00654E"
+                             TextAlignment="Center" Width="900" Margin="0,-110,0,0">
+                        <TextBox.Template>
+                            <ControlTemplate TargetType="TextBox">
+                                <Border Background="Transparent">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </TextBox.Template>
+                    </TextBox>
+
+                    <!-- DefaultGateway Section -->
+                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/DEFAULTGATEWAY.png" Width="900" Height="180"
+                           HorizontalAlignment="Center" Stretch="Uniform" Margin="0,0,0,0" />
+                    <TextBox x:Name="GatewayTextBox" GotFocus="TextBox_GotFocus"
+                             FontFamily="Noto Sans" FontSize="36" FontWeight="Bold" Foreground="#00654E"
+                             TextAlignment="Center" Width="900" Margin="0,-110,0,0">
+                        <TextBox.Template>
+                            <ControlTemplate TargetType="TextBox">
+                                <Border Background="Transparent">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </TextBox.Template>
+                    </TextBox>
+
+                    <!-- Preferred DNS Section -->
+                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/Preferred DNS Server.png" Width="900" Height="180"
+                           HorizontalAlignment="Center" Stretch="Uniform" Margin="0,0,0,0" />
+                    <TextBox x:Name="PreferredDNSTextBox" GotFocus="TextBox_GotFocus"
+                             FontFamily="Noto Sans" FontSize="36" FontWeight="Bold" Foreground="#00654E"
+                             TextAlignment="Center" Width="900" Margin="0,-110,0,0">
+                        <TextBox.Template>
+                            <ControlTemplate TargetType="TextBox">
+                                <Border Background="Transparent">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </TextBox.Template>
+                    </TextBox>
+
+                    <!-- Alternate DNS Section -->
+                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/Alternate DNS server.png" Width="900" Height="180"
+                           HorizontalAlignment="Center" Stretch="Uniform" Margin="0,0,0,0" />
+                    <TextBox x:Name="AlternateDNSTextBox" GotFocus="TextBox_GotFocus"
+                             FontFamily="Noto Sans" FontSize="36" FontWeight="Bold" Foreground="#00654E"
+                             TextAlignment="Center" Width="900" Margin="0,-110,0,0">
+                        <TextBox.Template>
+                            <ControlTemplate TargetType="TextBox">
+                                <Border Background="Transparent">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </TextBox.Template>
+                    </TextBox>
+                </StackPanel>
+            </ScrollViewer>
+
+            <!-- Status Display -->
+            <TextBlock x:Name="StatusText" HorizontalAlignment="Center" VerticalAlignment="Top"
+                       Margin="0,840,0,0" FontFamily="Noto Sans" FontSize="36" FontWeight="SemiBold">
+                <Run Text="STATUS : " Foreground="White"/>
+                <Run x:Name="StatusMessageRun" Text="Loaded successfully" Foreground="Green"/>
+            </TextBlock>
+
+            <!-- Button Background -->
+            <Image Source="pack://application:,,,/Static IP Application;component/Assets/Background_button.png" Width="960" Height="286"
+                   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,900,0,0" />
+
+            <!-- Button Panel -->
+            <ScrollViewer x:Name="ButtonScrollViewer"
+                          HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden"
+                          Width="960" Height="230" HorizontalAlignment="Center" VerticalAlignment="Top"
+                          Margin="0,940,0,0" PanningMode="HorizontalOnly">
+                <StackPanel x:Name="ButtonPanel" Orientation="Horizontal" HorizontalAlignment="Left">
+                    <!-- SAVE Button -->
+                    <Grid x:Name="SAVE">
+                        <Button  Width="380" Height="200" Margin="10,0" Click="SaveButton_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/SAVE_button.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    </Grid>
+                    <!-- DHCP Button -->
+                    <Grid x:Name="DHCP">
+                    <Button  Width="380" Height="200" Margin="10,0" Click="DHCPButton_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/DHCP_Button.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    </Grid>
+                    <!-- CLEAR Button -->
+                    <Grid x:Name="CLEAR">
+                    <Button  Width="380" Height="200" Margin="10,0" Click="ClearButton_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/CLEAR_Button.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    </Grid>
+                    <!-- REFRESH Button -->
+                    <Grid x:Name="REFRESH">
+                    <Button  Width="380" Height="200" Margin="10,0" Click="RefreshButton_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                    <Image Source="pack://application:,,,/Static IP Application;component/Assets/REFRESH_Button.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    </Grid>
+                </StackPanel>
+            </ScrollViewer>
+
+            <!-- Keyboard Grid -->
+            <Grid x:Name="KeyboardGrid" Visibility="Collapsed" Width="960" Height="286"
+                  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,900,0,0">
+                <!-- Row 1 -->
+                <UniformGrid Rows="1" Columns="6" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,-150,0,0">
+                    <!-- Number 1 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="1" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/1.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 2 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="2" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/2.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 3 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="3" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/3.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 4 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="4" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/4.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Back Button -->
+                    <Button Width="120" Height="70" Click="BackspaceButton_Click" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_BACK.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Close Button -->
+                    <Button Width="120" Height="70" Click="CloseKeyboardButton_Click" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_CLOSE.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </UniformGrid>
+
+                <!-- Row 2 -->
+                <UniformGrid Rows="1" Columns="6" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10,0,0">
+                    <!-- Number 5 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="5" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/5.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 6 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="6" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/6.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 7 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="7" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/7.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 8 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="8" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/8.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Clear Button -->
+                    <Button Width="120" Height="70" Click="KeyboardClearButton_Click" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_CLEAR.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Up Button -->
+                    <Button Width="120" Height="70" Click="KeyboardNavigateUpButton_Click" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_UP.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </UniformGrid>
+
+                <!-- Row 3 -->
+                <UniformGrid Rows="1" Columns="6" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,170,0,0">
+                    <!-- Number 9 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="9" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/9.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 00 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="00" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/00.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Number 0 -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="0" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/0.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Dot Button -->
+                    <Button Width="120" Height="70" Click="KeyboardButton_Click" Tag="." Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_DOT.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Refresh Button -->
+                    <Button Width="120" Height="70" Click="KeyboardRefreshButton_Click" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_REFRESH.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <!-- Down Button -->
+                    <Button Width="120" Height="70" Click="KeyboardNavigateDownButton_Click" Margin="-10,0">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Image Source="pack://application:,,,/Static IP Application;component/Assets/KEY_DOWN.png" Stretch="Uniform" />
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </UniformGrid>
+            </Grid>
+
+            <!-- Back Button -->
+            <Grid x:Name="BACK" Width="600" Height="112" 
+                  HorizontalAlignment="Center" 
+                  VerticalAlignment="Bottom" 
+                  Margin="0,0,0,50">
+                <Button Click="BackButton_Click">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Grid>
+                                <Image Source="pack://application:,,,/Assets/LongButton.png" Stretch="Uniform" />
+                                <TextBlock Text="BACK" 
+                                          FontSize="40" 
+                                          FontWeight="Bold"
+                                          FontFamily="Roboto"
+                                          Foreground="#FFFFFF"
+                                          HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+        </Grid>
+    </Viewbox>
+</UserControl>
